@@ -3,7 +3,7 @@ Display movie choices and seats in a theater to select from in order to purchase
 ## Live project
   Link : https://stately-torte-fc51f1.netlify.app/
 ## Project Specifications
-
+- Display movie choices and seats in a theatre to select from in order to purchase tickets.
 - Display UI with movie select, screen, seats, legend & seat info
 - User can select a movie/price
 - User can select/deselect seats
